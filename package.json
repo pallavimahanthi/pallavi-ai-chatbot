@@ -1,0 +1,14 @@
+{
+  "name": "pallavi-ai",
+  "version": "1.0.0",
+  "description": "Pallavi AI — A modern ChatGPT-style AI chatbot interface (demo mode)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
